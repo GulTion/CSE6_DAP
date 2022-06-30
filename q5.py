@@ -7,6 +7,6 @@ class Point:
         return f"({self.x}, {self.y})"
 
 
-p = Point(22)
+p = Point(3,34)
 
 print(p)
